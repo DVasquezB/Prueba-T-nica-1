@@ -1,2 +1,2 @@
 # Prueba-T-nica-1
-Dentro de cada una de las carpetas seleccionadas se encontrará las evidencias de cada caso de prueba que fue ejecutado de forma manual haciendo uso de la funcionalidad de los sitios web que fueron solicitados para testear.
+Dentro de cada una de las archivos  se encuentra el formato de evidencia de cada una de las pruebas manuales ejecutadas en cada uno de los sitios web asignados. Las pruebas están basadas en la funcionalidad neta de los sitios web indagando de forma manual en cada uno de ellos.
